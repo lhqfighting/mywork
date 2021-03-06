@@ -18,7 +18,7 @@
 
 乐优商城架构缩略图，大图请参考课前资料：
 
-![1525703759035](.\leyou\assets\1525703759035.png)
+![1525703759035](https://github.com/lhqfighting/leyou/blob/master/leyou/assets/1525703759035.png)
 
 
 
@@ -45,7 +45,7 @@
     - 评价商品等等
   - 前台系统我们会使用Thymeleaf模板引擎技术来完成页面开发。出于SEO优化的考虑，我们将不采用单页应用。
 
-  ![1525704277126](.\leyou\assets\1525704277126.png)
+  ![1525704277126](https://github.com/lhqfighting/leyou/blob/master/leyou/assets/1525704277126.png)
 
 
 
