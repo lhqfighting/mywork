@@ -15,7 +15,6 @@
 
 ### 架构图
 
-乐优商城架构缩略图，大图请参考课前资料：
 
 ![1525703759035](https://github.com/lhqfighting/leyou/blob/master/leyou/assets/1525703759035.png)
 
