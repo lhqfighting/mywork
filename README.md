@@ -11,15 +11,6 @@
 
 
 
-## 系统架构
-
-### 架构图
-
-
-![1525703759035](https://github.com/lhqfighting/leyou/blob/master/leyou/assets/1525703759035.png)
-
-
-
 ### 系统架构解读
 
 整个乐优商城可以分为两部分：后台管理系统、前台门户系统。
@@ -42,8 +33,6 @@
     - 下单
     - 评价商品等等
   - 前台系统我们会使用Thymeleaf模板引擎技术来完成页面开发。出于SEO优化的考虑，我们将不采用单页应用。
-
-  ![1525704277126](https://github.com/lhqfighting/leyou/blob/master/leyou/assets/1525704277126.png)
 
 
 
