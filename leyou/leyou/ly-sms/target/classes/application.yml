@@ -12,7 +12,7 @@ spring:
     host: 192.168.48.128
 ly:
   sms:
-    accessKeyId: LTk # accessKeyId
-    accessKeySecret: jknh # AccessKeySecret
+    accessKeyId:  # accessKeyId
+    accessKeySecret:  # AccessKeySecret
     signName: 乐优商城 # 签名名称
     verifyCodeTemplate: SMS_204277669 # 模板名称
